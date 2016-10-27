@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ElitechTest</string>
+    <string name="base_url">https://s3.amazonaws.com/banter-posts-media/</string>
+</resources>
